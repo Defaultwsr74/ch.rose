@@ -5,6 +5,7 @@ ch.rose is an indie project based on arch linux and ALCI.
 There are currently two versions of the distribution:
 - i3 gaps
 - kde-plasma
+
 in total:
 + fix a bug where a live user could not leave after installing the system
 
