@@ -1,0 +1,16 @@
+root:x:0:root
+sys:x:3:bin,chrose
+network:x:90:chrose
+power:x:98:chrose
+adm:x:999:chrose
+wheel:x:998:chrose
+uucp:x:987:chrose
+optical:x:990:chrose
+rfkill:x:983:chrose
+video:x:986:chrose
+storage:x:988:chrose
+audio:x:995:chrose
+users:x:985:chrose
+nopasswdlogin:x:966:chrose
+autologin:x:967:chrose
+chrose:x:1000:
