@@ -7,6 +7,7 @@ There are currently two versions of the distribution:
 - kde-plasma
 in total:
 + fix a bug where a live user could not leave after installing the system
+
 i3:
 introduced a keyboard cursor control tool, to do this, press shift + arrow key.
 Left mouse button - shift + enter key
@@ -18,4 +19,4 @@ rest of i3 control is standard, mod button is set to win(super) key
 :-------------------------:|:-------------------------:
 ![Image alt](https://a.fsdn.com/con/app/proj/ch-rose/screenshots/i3-5.png/max/max/1) | ![Image alt](https://a.fsdn.com/con/app/proj/ch-rose/screenshots/plasma-5.png/max/max/1) 
 
-<kbd> <img src="https://a.fsdn.com/con/app/proj/ch-rose/screenshots/Screenshot_20220410_121218.png/max/max/1" /> </kbd>
+
